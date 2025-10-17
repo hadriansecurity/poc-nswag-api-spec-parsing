@@ -1,4 +1,4 @@
-PoC: OpenAPI spec parsing (JSON & YAML)
+PoC: OpenAPI spec parsing (JSON & YAML) using NSWAG OpenApiDocument & OpenApiYamlDocument
 
 Overview
 - This is a proof-of-concept console app that parses OpenAPI/Swagger specification files in JSON or YAML format and prints relevant information.
